@@ -1,5 +1,5 @@
 
-# DataMobility Storingsanalyse Demo
+# Storingsanalyse Demo
 
 Dit is een demo-project voor een storingsanalyse van voetbalstadions in Nederland, inclusief een kansberekening en voorspelling voor 2025. 
 Het project bevat een Python-script dat willekeurige storingen genereert, een analyse uitvoert en een PowerPoint-rapport maakt met de resultaten.
