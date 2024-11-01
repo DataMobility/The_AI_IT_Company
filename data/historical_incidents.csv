@@ -1,0 +1,501 @@
+Date,Client,Device,Incident
+2024-03-09,Vitesse,Firewall 3,Hardware failure
+2023-04-11,AZ Alkmaar,Firewall 3,Power outage
+2024-06-06,Ajax,Firewall 2,User error
+2020-12-20,Ajax,Switch 15,Engineer error
+2022-03-13,AZ Alkmaar,Switch 14,Power outage
+2021-08-16,Ajax,Firewall 2,User error
+2022-07-22,AZ Alkmaar,Firewall 1,User error
+2022-03-16,Feyenoord,Firewall 1,Hardware failure
+2024-02-28,PSV,Switch 8,User error
+2021-03-21,PSV,Firewall 3,User error
+2022-04-21,Feyenoord,Switch 12,Network congestion
+2023-05-25,Ajax,Firewall 3,Hardware failure
+2023-02-02,Ajax,Firewall 1,Power outage
+2023-07-08,FC Utrecht,Switch 4,Power outage
+2024-07-09,AZ Alkmaar,Firewall 4,User error
+2022-07-10,FC Groningen,Switch 13,User error
+2023-07-05,Twente,Firewall 2,Network congestion
+2021-11-22,Feyenoord,Firewall 4,Engineer error
+2023-08-07,AZ Alkmaar,Firewall 2,Power outage
+2024-05-01,Ajax,Firewall 2,Firmware issue
+2022-09-25,FC Groningen,Switch 6,Power outage
+2024-10-03,FC Utrecht,Switch 11,User error
+2021-12-21,Vitesse,Switch 10,Power outage
+2024-09-09,PSV,Firewall 3,Firmware issue
+2022-10-17,Twente,Firewall 1,User error
+2023-05-19,AZ Alkmaar,Switch 9,Network congestion
+2021-02-21,Twente,Firewall 2,Network congestion
+2022-06-20,FC Utrecht,Firewall 2,Network congestion
+2021-04-01,PSV,Switch 14,Network congestion
+2024-07-13,AZ Alkmaar,Switch 2,User error
+2022-05-03,Ajax,Firewall 1,User error
+2024-07-22,Twente,Switch 3,User error
+2020-12-04,Feyenoord,Switch 5,Firmware issue
+2024-06-05,PSV,Firewall 3,User error
+2023-02-12,Feyenoord,Switch 6,Power outage
+2020-12-13,Heerenveen,Switch 13,Network congestion
+2021-12-05,Feyenoord,Firewall 4,User error
+2023-11-28,Ajax,Firewall 3,User error
+2023-07-27,PSV,Switch 2,Firmware issue
+2021-07-16,PSV,Switch 6,Firmware issue
+2022-12-26,AZ Alkmaar,Switch 6,Engineer error
+2020-11-11,AZ Alkmaar,Switch 2,Power outage
+2022-07-21,PSV,Switch 12,Network congestion
+2022-10-24,AZ Alkmaar,Switch 2,User error
+2020-12-25,Vitesse,Switch 5,User error
+2023-12-13,Heerenveen,Switch 1,Hardware failure
+2023-10-24,AZ Alkmaar,Switch 1,User error
+2022-09-19,Heerenveen,Switch 11,Firmware issue
+2023-08-30,Feyenoord,Switch 1,Power outage
+2022-08-26,Twente,Switch 10,Power outage
+2021-05-08,Vitesse,Firewall 2,User error
+2022-12-23,Heerenveen,Switch 7,Engineer error
+2022-12-23,Heerenveen,Firewall 2,Engineer error
+2024-05-30,Feyenoord,Switch 5,Hardware failure
+2022-08-27,Feyenoord,Switch 14,User error
+2024-04-26,Feyenoord,Switch 8,Power outage
+2024-03-21,Heerenveen,Firewall 2,Power outage
+2021-09-13,Vitesse,Switch 1,User error
+2021-06-10,PSV,Switch 2,Power outage
+2021-03-28,Ajax,Switch 9,User error
+2022-10-30,Heerenveen,Firewall 2,Firmware issue
+2023-03-23,Twente,Firewall 1,Engineer error
+2023-06-19,FC Groningen,Switch 6,Network congestion
+2024-04-24,Vitesse,Firewall 2,User error
+2020-11-29,Feyenoord,Firewall 3,Firmware issue
+2024-10-18,Ajax,Firewall 4,Hardware failure
+2020-11-29,FC Groningen,Switch 3,User error
+2024-09-20,Twente,Firewall 1,Network congestion
+2021-05-19,Heerenveen,Firewall 4,User error
+2021-04-16,Heerenveen,Firewall 3,User error
+2021-10-19,FC Groningen,Switch 12,User error
+2020-12-05,PSV,Firewall 1,Hardware failure
+2021-02-12,Twente,Switch 15,User error
+2022-01-23,Twente,Firewall 3,Firmware issue
+2022-03-22,Twente,Firewall 2,Power outage
+2023-10-03,Vitesse,Firewall 1,Network congestion
+2022-08-23,Heerenveen,Firewall 4,Network congestion
+2023-09-16,Ajax,Firewall 3,Power outage
+2023-11-29,Ajax,Switch 4,User error
+2022-11-12,Feyenoord,Switch 15,User error
+2022-02-13,Twente,Switch 10,User error
+2023-08-25,Heerenveen,Switch 7,Hardware failure
+2024-03-27,Twente,Switch 11,User error
+2024-08-15,PSV,Switch 10,Engineer error
+2023-08-30,FC Utrecht,Firewall 4,Engineer error
+2022-12-11,AZ Alkmaar,Switch 6,Engineer error
+2021-11-09,AZ Alkmaar,Switch 11,Power outage
+2022-03-03,PSV,Switch 15,Power outage
+2024-05-22,Vitesse,Switch 3,Power outage
+2023-07-01,AZ Alkmaar,Firewall 4,Power outage
+2023-08-04,Ajax,Firewall 3,User error
+2023-07-11,Vitesse,Switch 5,Power outage
+2021-01-03,FC Utrecht,Switch 3,Network congestion
+2020-11-24,Ajax,Firewall 4,Engineer error
+2024-06-20,Ajax,Firewall 2,Power outage
+2022-05-03,PSV,Firewall 2,Network congestion
+2024-09-10,Heerenveen,Firewall 3,User error
+2022-01-16,FC Groningen,Switch 7,User error
+2024-04-09,Twente,Switch 10,Engineer error
+2021-03-23,Heerenveen,Switch 14,Engineer error
+2022-07-18,Twente,Firewall 4,Network congestion
+2021-08-06,Heerenveen,Switch 2,Power outage
+2024-10-16,Heerenveen,Switch 11,User error
+2022-01-09,Twente,Switch 7,Firmware issue
+2022-03-21,Ajax,Firewall 3,Network congestion
+2024-07-04,Heerenveen,Firewall 1,Network congestion
+2022-02-04,AZ Alkmaar,Firewall 3,Power outage
+2024-04-18,FC Utrecht,Switch 12,User error
+2024-02-01,Feyenoord,Firewall 4,Engineer error
+2021-08-10,Vitesse,Firewall 2,Engineer error
+2020-11-27,PSV,Firewall 4,User error
+2021-03-29,Twente,Switch 5,Firmware issue
+2023-08-16,Ajax,Switch 2,User error
+2021-02-03,FC Groningen,Firewall 3,User error
+2022-10-30,Feyenoord,Firewall 2,Engineer error
+2020-11-28,Feyenoord,Firewall 1,Firmware issue
+2021-12-09,PSV,Firewall 4,Network congestion
+2024-04-26,FC Utrecht,Firewall 3,Network congestion
+2023-06-22,Ajax,Switch 14,User error
+2021-10-10,AZ Alkmaar,Switch 6,Power outage
+2024-04-27,FC Utrecht,Switch 11,Power outage
+2023-09-09,Heerenveen,Switch 12,Network congestion
+2022-04-20,PSV,Firewall 2,Engineer error
+2022-03-19,Feyenoord,Firewall 3,User error
+2024-04-05,FC Groningen,Firewall 2,Power outage
+2021-05-05,Vitesse,Switch 1,Engineer error
+2024-07-09,Feyenoord,Switch 14,User error
+2022-07-21,FC Groningen,Firewall 4,User error
+2022-09-08,Vitesse,Firewall 1,Power outage
+2021-02-01,PSV,Firewall 4,User error
+2023-05-20,Twente,Firewall 4,Network congestion
+2022-02-22,PSV,Switch 4,Network congestion
+2024-07-15,Heerenveen,Firewall 4,Power outage
+2023-04-01,FC Groningen,Firewall 3,Network congestion
+2022-01-17,Ajax,Firewall 4,Power outage
+2022-10-14,Heerenveen,Switch 7,Engineer error
+2021-03-09,Feyenoord,Firewall 4,User error
+2024-06-01,FC Groningen,Switch 14,User error
+2024-07-10,Twente,Firewall 4,User error
+2022-09-08,FC Utrecht,Switch 11,User error
+2024-01-26,Vitesse,Switch 15,User error
+2022-06-27,Twente,Firewall 4,Engineer error
+2020-12-21,Ajax,Firewall 1,User error
+2021-09-30,FC Groningen,Switch 1,Network congestion
+2023-12-21,FC Utrecht,Switch 8,User error
+2020-12-04,FC Utrecht,Switch 3,Power outage
+2024-01-08,Twente,Switch 8,Firmware issue
+2022-04-06,PSV,Firewall 3,Engineer error
+2024-03-10,Vitesse,Switch 4,Firmware issue
+2024-05-15,Twente,Switch 9,Engineer error
+2023-09-21,Vitesse,Firewall 3,Network congestion
+2023-04-14,FC Groningen,Switch 12,User error
+2022-03-11,FC Groningen,Firewall 3,Hardware failure
+2020-11-08,AZ Alkmaar,Firewall 2,Network congestion
+2023-11-10,Twente,Firewall 1,Hardware failure
+2021-10-28,Ajax,Firewall 4,Power outage
+2020-11-22,Heerenveen,Firewall 2,User error
+2023-06-06,Vitesse,Switch 4,User error
+2020-12-08,Ajax,Firewall 3,Power outage
+2021-09-23,FC Utrecht,Switch 2,User error
+2021-09-10,Feyenoord,Switch 14,Network congestion
+2021-12-11,Twente,Switch 2,Hardware failure
+2023-09-09,Ajax,Switch 9,Power outage
+2021-05-07,PSV,Firewall 1,Hardware failure
+2023-10-17,FC Groningen,Switch 7,Network congestion
+2022-10-16,Twente,Firewall 4,Network congestion
+2021-06-28,Vitesse,Switch 1,User error
+2022-08-21,Ajax,Firewall 2,User error
+2021-11-13,PSV,Firewall 2,User error
+2022-05-25,FC Groningen,Firewall 2,Hardware failure
+2022-09-10,FC Groningen,Switch 1,Engineer error
+2023-01-07,Vitesse,Firewall 4,Power outage
+2022-07-28,Feyenoord,Switch 15,Engineer error
+2022-11-24,Heerenveen,Firewall 4,Network congestion
+2024-06-18,Vitesse,Switch 6,Power outage
+2021-10-25,Ajax,Switch 6,User error
+2024-02-08,FC Utrecht,Switch 6,Network congestion
+2021-10-17,Vitesse,Firewall 4,Engineer error
+2024-07-01,Heerenveen,Switch 13,Hardware failure
+2021-03-26,Ajax,Firewall 3,User error
+2021-10-25,FC Groningen,Firewall 4,Engineer error
+2021-09-15,FC Utrecht,Switch 3,User error
+2021-09-21,Ajax,Firewall 3,Power outage
+2024-05-07,Heerenveen,Switch 4,Firmware issue
+2022-08-29,PSV,Firewall 3,Engineer error
+2021-05-31,Feyenoord,Firewall 3,Power outage
+2023-07-06,Twente,Firewall 3,User error
+2021-12-16,AZ Alkmaar,Switch 14,Network congestion
+2021-08-11,FC Groningen,Switch 7,Power outage
+2023-08-26,PSV,Firewall 4,User error
+2023-03-19,Heerenveen,Switch 5,Network congestion
+2021-09-14,Feyenoord,Switch 9,Power outage
+2024-10-25,PSV,Firewall 3,Power outage
+2022-12-24,AZ Alkmaar,Switch 6,Network congestion
+2022-01-05,FC Groningen,Switch 3,Engineer error
+2024-04-12,FC Utrecht,Switch 5,User error
+2024-08-20,PSV,Firewall 3,Power outage
+2022-02-03,Twente,Switch 12,User error
+2021-11-13,Heerenveen,Firewall 2,Network congestion
+2023-05-29,Heerenveen,Firewall 2,User error
+2022-12-03,Vitesse,Firewall 3,Power outage
+2022-03-16,PSV,Switch 5,Power outage
+2023-12-09,Vitesse,Firewall 4,User error
+2022-02-17,FC Groningen,Firewall 2,User error
+2024-04-01,FC Utrecht,Firewall 4,Power outage
+2023-07-24,PSV,Firewall 2,Network congestion
+2022-08-17,AZ Alkmaar,Firewall 2,User error
+2023-11-25,Ajax,Switch 8,Power outage
+2023-07-12,Heerenveen,Firewall 4,User error
+2023-07-24,Vitesse,Firewall 4,Network congestion
+2023-10-18,Heerenveen,Switch 5,User error
+2023-12-18,FC Groningen,Switch 5,Engineer error
+2024-09-26,FC Utrecht,Switch 13,User error
+2024-01-25,Feyenoord,Switch 2,Power outage
+2021-07-20,AZ Alkmaar,Switch 2,Power outage
+2023-09-09,Vitesse,Firewall 1,User error
+2022-07-26,Twente,Firewall 3,User error
+2022-01-21,FC Utrecht,Switch 9,Power outage
+2024-07-22,Feyenoord,Firewall 2,Power outage
+2021-07-13,PSV,Switch 1,Engineer error
+2023-10-24,Vitesse,Firewall 1,Power outage
+2021-03-06,PSV,Switch 10,Firmware issue
+2023-06-22,AZ Alkmaar,Switch 10,Engineer error
+2022-03-29,Vitesse,Switch 3,Power outage
+2022-03-24,Vitesse,Firewall 3,User error
+2022-11-22,Vitesse,Firewall 1,Hardware failure
+2024-05-13,AZ Alkmaar,Switch 10,User error
+2022-06-12,Ajax,Switch 4,Network congestion
+2024-01-26,AZ Alkmaar,Switch 9,Hardware failure
+2021-07-30,Feyenoord,Firewall 3,Engineer error
+2024-07-20,Twente,Switch 5,User error
+2021-12-22,AZ Alkmaar,Firewall 2,User error
+2024-01-22,Ajax,Firewall 4,Power outage
+2024-02-11,PSV,Firewall 4,Firmware issue
+2022-06-22,Feyenoord,Switch 7,User error
+2023-09-15,Twente,Firewall 1,Network congestion
+2021-12-17,PSV,Firewall 2,User error
+2023-04-08,FC Utrecht,Switch 6,User error
+2023-10-16,Vitesse,Switch 14,User error
+2021-09-02,Feyenoord,Switch 14,Network congestion
+2023-08-27,Heerenveen,Switch 12,Power outage
+2020-12-12,Ajax,Switch 1,User error
+2021-12-29,Twente,Firewall 1,Engineer error
+2023-08-19,Heerenveen,Firewall 1,Power outage
+2022-12-12,FC Groningen,Switch 9,Power outage
+2021-01-14,Ajax,Firewall 1,Power outage
+2024-01-30,Heerenveen,Firewall 1,Engineer error
+2021-02-01,FC Groningen,Firewall 3,User error
+2020-11-30,AZ Alkmaar,Firewall 1,User error
+2022-02-23,FC Groningen,Switch 4,Network congestion
+2021-07-21,Twente,Switch 11,Hardware failure
+2022-05-06,AZ Alkmaar,Firewall 1,User error
+2024-09-27,PSV,Switch 9,User error
+2024-03-06,PSV,Switch 12,Engineer error
+2022-03-01,FC Groningen,Switch 13,User error
+2023-12-23,Heerenveen,Firewall 2,User error
+2021-05-27,FC Groningen,Switch 6,User error
+2022-06-24,Feyenoord,Switch 8,Hardware failure
+2024-03-28,FC Groningen,Firewall 2,User error
+2023-12-13,PSV,Switch 5,Engineer error
+2024-07-20,Heerenveen,Firewall 4,Network congestion
+2022-12-23,PSV,Switch 6,User error
+2023-11-10,AZ Alkmaar,Switch 12,Power outage
+2022-05-19,Feyenoord,Firewall 3,Power outage
+2022-10-31,Heerenveen,Firewall 4,Firmware issue
+2024-07-25,Ajax,Firewall 2,User error
+2021-10-12,Ajax,Firewall 3,User error
+2024-08-17,Heerenveen,Switch 10,User error
+2022-12-10,FC Utrecht,Switch 11,Network congestion
+2022-05-14,FC Utrecht,Firewall 4,Power outage
+2024-05-25,Vitesse,Firewall 2,User error
+2021-10-09,Feyenoord,Switch 7,User error
+2021-08-17,Heerenveen,Switch 8,Engineer error
+2023-12-12,Feyenoord,Switch 13,Hardware failure
+2022-04-30,Heerenveen,Switch 7,Engineer error
+2024-02-28,Feyenoord,Switch 15,Hardware failure
+2023-04-23,AZ Alkmaar,Firewall 1,Power outage
+2023-01-30,FC Utrecht,Firewall 4,Power outage
+2024-10-28,FC Utrecht,Firewall 3,User error
+2024-10-16,Heerenveen,Switch 9,User error
+2022-11-07,FC Groningen,Firewall 4,Power outage
+2022-07-08,AZ Alkmaar,Firewall 3,User error
+2024-07-20,AZ Alkmaar,Switch 11,Engineer error
+2021-09-02,Heerenveen,Firewall 3,Power outage
+2022-04-10,FC Utrecht,Firewall 2,User error
+2022-06-10,AZ Alkmaar,Firewall 1,Power outage
+2021-06-30,Ajax,Switch 10,Power outage
+2021-05-20,Feyenoord,Switch 14,Network congestion
+2021-11-17,Feyenoord,Switch 10,Network congestion
+2023-05-27,AZ Alkmaar,Switch 6,User error
+2023-07-26,FC Groningen,Switch 15,User error
+2022-10-01,AZ Alkmaar,Switch 15,Engineer error
+2023-06-05,Twente,Firewall 4,Hardware failure
+2021-10-03,FC Utrecht,Switch 3,User error
+2024-03-04,PSV,Switch 12,Firmware issue
+2021-08-27,PSV,Firewall 3,User error
+2021-06-24,PSV,Switch 8,Network congestion
+2020-12-31,AZ Alkmaar,Firewall 3,User error
+2022-04-23,Vitesse,Switch 9,User error
+2024-05-27,Vitesse,Firewall 1,Firmware issue
+2024-06-23,FC Utrecht,Switch 12,Power outage
+2021-01-21,FC Groningen,Switch 15,User error
+2022-06-08,Ajax,Firewall 3,Firmware issue
+2024-04-28,Vitesse,Firewall 4,Power outage
+2021-03-26,FC Groningen,Switch 9,Network congestion
+2024-09-19,FC Utrecht,Firewall 4,Power outage
+2024-03-11,Feyenoord,Firewall 3,Network congestion
+2020-12-14,Ajax,Switch 9,User error
+2021-08-26,Twente,Switch 15,Engineer error
+2022-01-01,FC Utrecht,Firewall 1,Power outage
+2023-06-25,FC Utrecht,Switch 2,User error
+2020-12-27,Feyenoord,Switch 11,Hardware failure
+2023-10-17,Feyenoord,Firewall 2,User error
+2022-10-09,Twente,Switch 7,Engineer error
+2021-12-26,Heerenveen,Switch 3,User error
+2021-12-17,Heerenveen,Switch 1,Firmware issue
+2021-03-21,Vitesse,Firewall 3,Firmware issue
+2023-08-19,PSV,Firewall 2,User error
+2021-05-14,Twente,Firewall 2,User error
+2022-09-25,Vitesse,Firewall 1,User error
+2024-09-26,PSV,Firewall 3,Power outage
+2023-03-24,AZ Alkmaar,Switch 10,Engineer error
+2021-12-24,Ajax,Switch 14,Network congestion
+2024-08-17,Feyenoord,Firewall 2,Hardware failure
+2022-05-29,FC Utrecht,Firewall 1,User error
+2021-01-19,FC Utrecht,Switch 15,Power outage
+2023-03-08,Feyenoord,Switch 1,Network congestion
+2024-03-19,FC Groningen,Switch 11,Power outage
+2023-03-27,Ajax,Firewall 1,Engineer error
+2021-11-14,FC Groningen,Switch 5,User error
+2022-07-28,Feyenoord,Switch 6,Engineer error
+2022-10-01,FC Utrecht,Firewall 4,Power outage
+2021-06-08,Heerenveen,Firewall 4,Engineer error
+2022-10-15,Feyenoord,Switch 14,User error
+2021-03-08,Ajax,Firewall 2,User error
+2021-02-05,Twente,Switch 11,User error
+2024-03-11,AZ Alkmaar,Switch 1,Network congestion
+2021-06-05,FC Groningen,Firewall 2,User error
+2023-03-31,Feyenoord,Firewall 2,User error
+2021-06-26,Ajax,Firewall 2,User error
+2022-05-25,Heerenveen,Switch 2,Power outage
+2023-02-20,Heerenveen,Firewall 4,Network congestion
+2024-09-12,Heerenveen,Switch 1,User error
+2023-07-31,Vitesse,Firewall 2,Network congestion
+2021-03-11,Feyenoord,Switch 3,Firmware issue
+2023-02-20,PSV,Switch 14,Power outage
+2023-12-26,Twente,Firewall 2,Power outage
+2021-04-15,Heerenveen,Switch 11,User error
+2023-06-23,Vitesse,Firewall 3,Power outage
+2022-10-07,Feyenoord,Firewall 4,User error
+2023-12-20,PSV,Firewall 3,Network congestion
+2023-08-10,Feyenoord,Firewall 2,Power outage
+2023-08-01,Ajax,Switch 1,Firmware issue
+2020-11-20,Feyenoord,Firewall 2,Firmware issue
+2021-03-30,AZ Alkmaar,Switch 12,User error
+2022-11-12,Vitesse,Switch 14,Network congestion
+2020-12-17,Heerenveen,Firewall 4,Engineer error
+2023-04-09,Heerenveen,Firewall 1,User error
+2022-03-04,FC Groningen,Firewall 2,Network congestion
+2023-11-05,PSV,Switch 4,Firmware issue
+2024-09-23,FC Groningen,Firewall 1,Network congestion
+2024-03-12,FC Groningen,Switch 6,User error
+2023-02-05,Feyenoord,Firewall 1,Engineer error
+2021-01-24,FC Utrecht,Switch 12,User error
+2023-08-25,FC Utrecht,Switch 3,Hardware failure
+2022-09-02,FC Utrecht,Switch 5,User error
+2024-08-26,Twente,Firewall 3,Engineer error
+2021-04-26,Vitesse,Switch 2,Power outage
+2021-07-02,Heerenveen,Switch 1,Network congestion
+2024-09-25,AZ Alkmaar,Switch 3,User error
+2024-02-08,FC Groningen,Switch 9,User error
+2022-02-26,Twente,Firewall 2,Power outage
+2023-10-13,FC Groningen,Switch 7,Power outage
+2021-04-20,FC Groningen,Firewall 1,User error
+2021-03-11,PSV,Switch 7,Power outage
+2021-08-05,AZ Alkmaar,Firewall 2,Power outage
+2021-01-12,FC Groningen,Firewall 4,Power outage
+2021-01-14,FC Utrecht,Firewall 4,User error
+2023-05-30,Heerenveen,Firewall 1,Engineer error
+2024-05-14,PSV,Switch 10,Engineer error
+2021-07-27,Ajax,Switch 7,User error
+2023-07-14,FC Groningen,Firewall 3,Network congestion
+2024-07-26,AZ Alkmaar,Switch 15,User error
+2022-04-24,Vitesse,Firewall 2,Power outage
+2024-09-25,Feyenoord,Switch 4,Network congestion
+2024-01-20,FC Utrecht,Switch 10,Network congestion
+2024-05-13,Heerenveen,Switch 7,Engineer error
+2022-11-07,Vitesse,Firewall 2,Network congestion
+2024-03-25,Feyenoord,Firewall 4,Network congestion
+2023-12-02,PSV,Switch 7,User error
+2022-01-12,AZ Alkmaar,Firewall 2,Network congestion
+2022-07-20,Twente,Switch 5,User error
+2022-03-22,AZ Alkmaar,Firewall 3,User error
+2024-07-20,Vitesse,Firewall 2,Power outage
+2021-07-16,Vitesse,Switch 5,Network congestion
+2022-11-02,PSV,Firewall 3,Network congestion
+2024-06-29,FC Groningen,Switch 9,Network congestion
+2021-06-11,FC Groningen,Switch 11,Power outage
+2021-10-18,FC Utrecht,Switch 7,User error
+2021-08-16,Heerenveen,Switch 1,User error
+2023-03-04,PSV,Switch 8,User error
+2021-06-14,Heerenveen,Firewall 4,Power outage
+2021-08-08,Vitesse,Firewall 4,Power outage
+2021-10-19,Feyenoord,Firewall 3,Power outage
+2023-02-25,Twente,Firewall 3,Power outage
+2021-12-25,PSV,Switch 5,Hardware failure
+2024-10-11,AZ Alkmaar,Firewall 1,Firmware issue
+2023-01-06,PSV,Firewall 2,User error
+2021-10-29,AZ Alkmaar,Firewall 3,Network congestion
+2020-11-05,Ajax,Firewall 1,Power outage
+2023-10-13,Vitesse,Switch 13,Power outage
+2024-01-23,Heerenveen,Switch 11,Engineer error
+2021-09-20,Heerenveen,Firewall 2,Hardware failure
+2021-07-19,FC Groningen,Switch 8,User error
+2023-12-10,FC Utrecht,Switch 14,User error
+2021-10-24,Twente,Switch 9,Power outage
+2023-03-14,PSV,Switch 5,Power outage
+2024-09-27,AZ Alkmaar,Switch 8,Network congestion
+2021-09-11,PSV,Firewall 2,Power outage
+2023-08-13,Feyenoord,Switch 2,Power outage
+2022-08-04,Ajax,Firewall 2,User error
+2022-09-03,Twente,Firewall 1,Network congestion
+2021-08-25,FC Groningen,Switch 8,User error
+2022-05-29,Ajax,Firewall 3,Engineer error
+2023-12-06,AZ Alkmaar,Firewall 3,Hardware failure
+2023-06-09,Feyenoord,Switch 1,Power outage
+2021-11-10,Twente,Firewall 1,Network congestion
+2021-04-15,Feyenoord,Switch 1,Network congestion
+2024-09-10,FC Utrecht,Firewall 1,User error
+2021-06-14,PSV,Switch 5,User error
+2021-04-02,FC Utrecht,Firewall 3,Hardware failure
+2024-04-17,PSV,Switch 14,User error
+2022-05-11,FC Groningen,Firewall 4,Firmware issue
+2023-10-31,Ajax,Firewall 3,Power outage
+2023-10-06,PSV,Switch 13,Network congestion
+2023-07-10,Feyenoord,Firewall 2,Engineer error
+2024-05-01,PSV,Switch 15,User error
+2024-06-29,AZ Alkmaar,Firewall 3,Power outage
+2021-03-08,PSV,Switch 12,Firmware issue
+2022-05-13,Feyenoord,Firewall 3,Hardware failure
+2021-04-01,FC Groningen,Switch 12,Engineer error
+2023-04-22,AZ Alkmaar,Firewall 2,User error
+2022-12-26,Vitesse,Firewall 1,Hardware failure
+2020-12-16,Feyenoord,Firewall 2,User error
+2021-07-24,FC Groningen,Firewall 1,User error
+2023-04-24,Vitesse,Switch 8,User error
+2021-12-01,Twente,Firewall 3,Engineer error
+2022-09-25,Heerenveen,Firewall 4,Engineer error
+2023-12-27,AZ Alkmaar,Firewall 4,User error
+2021-03-09,AZ Alkmaar,Switch 13,Hardware failure
+2024-01-23,FC Groningen,Switch 9,Firmware issue
+2022-03-18,Heerenveen,Firewall 1,User error
+2023-03-27,FC Utrecht,Firewall 3,Network congestion
+2021-01-28,Feyenoord,Switch 11,Hardware failure
+2023-07-14,PSV,Switch 15,Power outage
+2023-01-19,Feyenoord,Switch 4,User error
+2023-07-29,PSV,Firewall 2,Power outage
+2023-01-08,Ajax,Switch 8,Power outage
+2023-05-05,Heerenveen,Switch 12,Power outage
+2024-10-06,FC Utrecht,Switch 8,User error
+2023-08-16,FC Groningen,Switch 10,Hardware failure
+2023-02-05,FC Utrecht,Switch 14,Hardware failure
+2021-10-19,PSV,Firewall 1,User error
+2022-07-23,AZ Alkmaar,Firewall 2,User error
+2022-09-06,Heerenveen,Firewall 4,Firmware issue
+2024-03-18,AZ Alkmaar,Switch 4,Network congestion
+2022-04-18,Feyenoord,Firewall 3,Engineer error
+2024-05-23,FC Groningen,Firewall 1,Power outage
+2024-05-05,FC Utrecht,Switch 14,User error
+2023-01-06,Heerenveen,Switch 10,Power outage
+2020-11-11,Twente,Switch 10,Network congestion
+2021-12-11,FC Utrecht,Firewall 2,User error
+2021-10-27,Vitesse,Firewall 1,Network congestion
+2022-02-16,AZ Alkmaar,Switch 9,User error
+2022-08-07,FC Groningen,Firewall 3,User error
+2022-05-06,Twente,Switch 7,Engineer error
+2021-05-29,Heerenveen,Switch 11,Hardware failure
+2021-11-23,PSV,Firewall 1,Power outage
+2022-06-05,FC Utrecht,Switch 1,User error
+2023-05-09,AZ Alkmaar,Switch 13,Power outage
+2020-12-10,Heerenveen,Switch 8,Power outage
+2023-08-31,Twente,Firewall 3,Power outage
+2024-06-14,FC Utrecht,Firewall 1,Power outage
+2021-01-06,Ajax,Switch 1,Power outage
+2022-11-04,Ajax,Switch 6,Network congestion
+2021-03-03,FC Groningen,Firewall 4,User error
+2021-05-09,Vitesse,Firewall 4,Firmware issue
+2022-04-23,FC Utrecht,Switch 8,User error
+2023-08-09,Twente,Switch 5,Engineer error
+2023-01-20,FC Utrecht,Switch 11,Engineer error
+2021-10-27,Twente,Firewall 1,User error
+2023-01-05,AZ Alkmaar,Switch 14,Power outage
+2024-07-30,Twente,Firewall 2,User error
+2023-09-08,FC Groningen,Firewall 2,User error
+2021-04-14,Feyenoord,Firewall 2,Network congestion
+2020-11-02,FC Groningen,Firewall 2,Hardware failure
+2021-05-31,AZ Alkmaar,Firewall 4,User error
+2021-04-02,Twente,Firewall 3,Engineer error
+2023-01-07,AZ Alkmaar,Firewall 1,Hardware failure
+2024-02-15,PSV,Firewall 1,Network congestion
