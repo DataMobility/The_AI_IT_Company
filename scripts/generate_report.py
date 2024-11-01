@@ -63,5 +63,4 @@ analyse.to_csv("output/voorspelde_storingen_2025.csv")
 prs = Presentation()
 slide = prs.slides.add_slide(prs.slide_layouts[0])
 slide.shapes.title.text = "Storingsanalyse en Voorspelling voor 2025"
-slide.shapes.add_picture("data/D09A8A57-B845-4A47-A351-C9A3897CAAE0.png", Inches(9), Inches(0.5), width=Inches(1.5))
 prs.save("output/Storingsanalyse_Voorspelling_2025_Final_Branded_Presentatie.pptx")
